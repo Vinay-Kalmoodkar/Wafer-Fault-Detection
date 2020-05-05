@@ -8,7 +8,7 @@ There are two classes: +1 and -1.
 *	-1 means that the wafer is faulty and it needs to be replaced. 
 
 ## Architecture
-![](architecture.png)
+<img src = "architecture.png" width = 600>
 
 ## Data Validation
 In this step, we perform different sets of validation like filename validation, number of columns, name of the columns,data type of each columns and other kind of validations.
