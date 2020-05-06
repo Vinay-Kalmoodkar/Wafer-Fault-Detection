@@ -1,0 +1,1 @@
+This folder contains the archived bad data file while training.

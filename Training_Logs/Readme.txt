@@ -1,0 +1,1 @@
+This folder contains different text files which inturn contains the different different logs
