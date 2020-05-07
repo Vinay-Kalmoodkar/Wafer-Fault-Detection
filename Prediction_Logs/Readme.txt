@@ -1,0 +1,1 @@
+This folder will contain all the important logs that are logged during prediction step.
