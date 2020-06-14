@@ -21,7 +21,7 @@ In this step we perform the following things
 
 ## Model Training
 1. Data Export from Db - The data in a stored database is exported as a CSV file to be used for model training.
-2. Data Preprocessing - Checking for null values, imputation for null values etc.
+2. Data Preprocessing - Checking for null values, imputation for null values using KNNImputer, removing the features with zero standard deviation etc.
 3. Clustering - The idea behind clustering is to implement different algorithms.To train data in different clusters. The Kmeans model is trained over preprocessed data and the model is saved for further use in prediction.
 4. Model Selection - After clusters are created, we find the best model for each cluster. Two algorithms are used *RandomForest* and *XGBoost*
 
